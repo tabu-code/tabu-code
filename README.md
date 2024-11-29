@@ -1,6 +1,8 @@
 <h1 align="center">Hola👋, soy Javier Tabuenca</h1>
 <h3 align="center">Soy un Software Developer</h3>
 
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/javier-tabuenca-pablo/](https://www.linkedin.com/in/javier-tabuenca-pablo/)
+
 - 💬 Ask me about **HTML, CSS, Javascript, Java, Kotlin**
 
 - 📫 How to reach me **tabucode@gmail.com**
